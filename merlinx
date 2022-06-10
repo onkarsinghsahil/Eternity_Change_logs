@@ -2,6 +2,8 @@ Changelogs:-
 
 ----- 10-June-2022------
 - Beta build.
+- settings might show lineage version
+ in about section due to some issue.
 - eng build as its beta version.
 - Android 12L.
 - Gapps build for now.
