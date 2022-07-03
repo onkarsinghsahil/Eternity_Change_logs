@@ -9,7 +9,8 @@ in source time to time.
 
 
 =================================================
-
+Date: 03-07-2022
+===========================================
 Project YALP Changelogs:-
 
 - Merged with latest june security patch.
@@ -26,5 +27,10 @@ Project YALP Changelogs:-
 - Face Unlock is implemented.
 - GameSpace is implemented.
 - Lawnchair is implemented as default launcher.
-
+- Added Adaptive playback feature named as smart pause.
+- SystemUI: Update keyguard clock metrics for gsans clock font.
+- SystemUI: Add dual tone dark and light theme for qs.
+ 
+- Some more underhood changes :)
+Happy flashing, Happy Building :)
 ================================================
