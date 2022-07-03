@@ -1,0 +1,7 @@
+Device Changelogs (3rd july 2022)==========
+===========================================
+
+- upstreamed device trees
+- using latest kernel.
+- fixed a bug of red light.
+- some optimizations.
