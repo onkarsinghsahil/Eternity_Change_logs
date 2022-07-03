@@ -6,3 +6,25 @@ Date: 28-06-2022
 in source time to time.
 
 (No change logs for Beta releases)
+
+
+=================================================
+
+Project YALP Changelogs:-
+
+- Merged with latest june security patch.
+- Added rounded corners in UI.
+- Blur feature is implemented for recent menu.
+- three finger screenshot is added.
+- hide phone number from about section.
+- hide sensitive info in about menu.
+- Installed apps: show link to google play.
+- Rearrange density option under display settings.
+- Added live volume steps.
+- Added battery capacity info.
+- Flash on call feature is implemented.
+- Face Unlock is implemented.
+- GameSpace is implemented.
+- Lawnchair is implemented as default launcher.
+
+================================================
